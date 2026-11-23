@@ -1,4 +1,4 @@
-css:body{background:linear-gradient(#000000,#333333,#f0f0f0,#ffffff);
+body{background:linear-gradient(#000000,#333333,#f0f0f0,#ffffff);
      min-height:100vh;
      text-align:center;}
 h1{color: #f0f0f0;}
