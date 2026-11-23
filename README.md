@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="PT-BR">
 <head>
-    <title>Projeto</title>
+    <Title>Projeto</Title>
     <link rel="stylesheet" href="style.css">
 </head>
     <body>
@@ -13,13 +13,10 @@
             <legend><strong>Cadastre-se</strong></legend>
         <label for="fname">Primeiro Nome:</label>
             <input type="text" id="fname" name="fname" required>
-
         <label for="fname">CNPJ:</label>
             <input type="txt" id="CNPJ" name="CNPJ" required>
-
         <label for="fname">E-mail:</label>
             <input type="txt" id="E-mail" name="E-mail" required>
-
         <label for="fname">Telefone:</label>
             <input type="txt" id="Telefone" name="Telefone" required>
         <button>Enviar</button>
