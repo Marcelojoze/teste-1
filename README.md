@@ -12,7 +12,6 @@
 
     <body>
         <h1>Kraft Papéis</h1>
-        
     <main>
 
 
