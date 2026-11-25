@@ -10,10 +10,9 @@
     
 </head>
 
-    <body>
+<body>
         <h1>Kraft Papéis</h1>
-    <main>
-
+<main>
 
 <article>
     
@@ -31,7 +30,7 @@
         <label for="fname">Telefone:</label>
             <input type="txt" id="Telefone" name="Telefone" required>
         <button>Enviar</button>
-         </fieldset>
+</fieldset>
 </form>
 </article>
 </main>
