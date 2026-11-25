@@ -1,21 +1,28 @@
 <!DOCTYPE html>
+
 <html lang="PT-BR">
 
 <head>
+    
     <Title>Projeto</Title>
+
     <link rel="stylesheet" href="style.css">
+    
 </head>
 
     <body>
         <h1>Kraft Papéis</h1>
+        
     <main>
 
 
 <article>
+    
 <form action="/action_page.php"method="POST">
 
 <fieldset>
             <legend><strong>Cadastre-se</strong></legend>
+    
         <label for="fname">Primeiro Nome:</label>
             <input type="text" id="fname" name="fname" required>
         <label for="fname">CNPJ:</label>
